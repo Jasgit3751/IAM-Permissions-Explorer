@@ -1,4 +1,4 @@
-🔹 Problem Statement
+✅Problem Statement
 As we all know in many organizations when they use cloud platforms like Amazon Web Services, Microsoft Azure, or Google Cloud Platform, users and services often accumulate excessive IAM permissions over time. Due to this security teams struggle with below problems:-
 (A) Quickly identify over-privileged users.
 (B) Detect unused permissions.
